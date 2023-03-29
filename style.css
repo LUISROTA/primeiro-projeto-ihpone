@@ -3,7 +3,9 @@
     margin: 0; 
     padding: 0; 
         box-sizing: border-box;  
+
 }
+
 
 
 .caixa-roxa {
@@ -65,7 +67,7 @@ li {
 
 .botao {
     background-color: #0071e3;
-    color: #ffffff;
+    color: #000000;
     padding: 10px 20px;
     border: none;
     border-radius: 20px;
